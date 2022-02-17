@@ -1,0 +1,1 @@
+operazioni-stringhe :B1-https://github.com/filo10/operazioni-stringheB40https://travis-ci.org/filo10/operazioni-stringheB84https://github.com/filo10/operazioni-stringhe/issuesB1-https://github.com/filo10/operazioni-stringheRfilo10_operazioni-stringhe

@@ -1,0 +1,41 @@
+
+>operators.TipoDiCharChecker#isSoloLettere(Ljava/lang/String;)Zc
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java ("5*×
+3c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java	 	("m
+c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java	 	(
+""*ï
+4c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java (¿¼
+c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java (
+
+%1char"java.lang.String#charAt(I)C*
+
+strjava.lang.String*
+""2	charAt(I)º
+·
+c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java (
+%2boolean" java.lang.Character#isLetter(C)Z*"
+java.lang.Character*
+""*
+3
+5*§
+5c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java (´±
+c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java ("	
+%0int"java.lang.String#length()I*
+
+strjava.lang.String2length()*
+4
+1*×
+1c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java	 ("m
+c
+YC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/TipoDiCharChecker.java (
+"":
+strjava.lang.StringB
+operators.TipoDiCharChecker

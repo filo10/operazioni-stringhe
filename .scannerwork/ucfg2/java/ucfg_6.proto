@@ -1,0 +1,44 @@
+
+?operators.OperatoreSuStringhe#isPalindroma(Ljava/lang/String;)Ze
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java% %("6*Û
+3e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java* *("o
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java* *(
+""*ý
+4e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java) )(
+Á¾
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java) )(
+
+%1char"java.lang.String#charAt(I)C*
+
+strjava.lang.String*
+""2	charAt(I)Á¾
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java) )(/
+
+%2char"java.lang.String#charAt(I)C*
+
+strjava.lang.String*
+""2	charAt(I)*	
+3
+4
+1*«
+6e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java& &(¶³
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java& &(	
+%0int"java.lang.String#length()I*
+
+strjava.lang.String2length()*
+4
+1*Û
+1e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java-	 -("o
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java- -(
+"":
+strjava.lang.StringB!
+operators.OperatoreSuStringhe

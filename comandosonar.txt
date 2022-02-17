@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.organization=filobriscese" -D"sonar.projectKey=filo10_operazioni-stringhe" -D"sonar.sources=." -D"sonar.host.url=https://sonarcloud.io"

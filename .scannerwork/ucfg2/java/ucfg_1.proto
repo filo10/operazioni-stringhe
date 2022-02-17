@@ -1,0 +1,95 @@
+
+doperators.Incorniciatore#circondaConStringa(Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (!"5*ù
+3`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (≠™
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+cornicejava.lang.String2append(Ljava/lang/String;)*
+3
+1*É
+5`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (ì
+ê
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (
+
+asterischijava.lang.String"__id*
+""ùö
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (&
+%0java.lang.StringBuilder"java.lang.StringBuilderØ
+¨
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java ((
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder´
+®
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java ()
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+3
+1*—
+
+1`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (‡›
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (
+%3java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()•
+¢
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (
+
+asterischijava.lang.String"__id*
+
+%3java.lang.String∞
+≠
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java	 (
+%4java.lang.String"__concat* 
+
+
+asterischijava.lang.String*
+ º
+π
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java	 (
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+strjava.lang.String®
+•
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java	 (%
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+ √
+¿
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java	 (2
+%7java.lang.String"__concat*
+
+%6java.lang.String* 
+
+
+asterischijava.lang.String"|
+`
+VC:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/Incorniciatore.java (3
+
+%7java.lang.String:
+strjava.lang.String:
+cornicejava.lang.String:
+""B
+operators.Incorniciatore

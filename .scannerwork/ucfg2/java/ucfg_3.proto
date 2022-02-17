@@ -1,0 +1,47 @@
+
+doperators.OperatoreSuStringhe#unisciStringhe(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java ("1*›
+1e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (-¢ü
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (+
+%0java.lang.StringBuilder"java.lang.StringBuilder¥
+±
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (-
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderµ
+≤
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (."
+builderjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder¥±
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+
+str1java.lang.String2append(Ljava/lang/String;)¥±
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+
+str2java.lang.String2append(Ljava/lang/String;)ÍÁ
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java	 (
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
+"
+builderjava.lang.StringBuilder2
+toString()"Å
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (
+
+%4java.lang.String:
+str1java.lang.String:
+str2java.lang.StringB!
+operators.OperatoreSuStringhe

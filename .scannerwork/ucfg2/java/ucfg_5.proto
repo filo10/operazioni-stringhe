@@ -1,0 +1,63 @@
+
+Yoperators.OperatoreSuStringhe#rimuoviPrimoCarattere(Ljava/lang/String;)Ljava/lang/String;e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java ($"5*∫
+3e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java   (
+¡æ
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java   (
+
+%3char"java.lang.String#charAt(I)C*
+
+strjava.lang.String*
+""2	charAt(I)ÑÅ
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java   ( 
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+
+
+%3char2	append(C)*
+4*´
+4e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (∂≥
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java ("	
+%2int"java.lang.String#length()I*
+
+strjava.lang.String2length()*
+3
+1*É
+5e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (-¢ü
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (+
+%0java.lang.StringBuilder"java.lang.StringBuilder¥
+±
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (-
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderµ
+≤
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java (."
+builderjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+4*€
+1e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java"	 "(ÍÁ
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java"	 "(
+%5java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
+"
+builderjava.lang.StringBuilder2
+toString()"Å
+e
+[C:/Users/fili_/Desktop/esame/progetto stringhe/trunk/src/operators/OperatoreSuStringhe.java" "(
+
+%5java.lang.String:
+strjava.lang.StringB!
+operators.OperatoreSuStringhe
